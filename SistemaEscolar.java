@@ -1,4 +1,4 @@
-public class Sistema Escolar {
+classe public class Sistema Escolar {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
