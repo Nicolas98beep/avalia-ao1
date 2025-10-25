@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class SistemaEscolar {
 
     public static void main(String[] args) {
@@ -44,3 +42,4 @@ public class SistemaEscolar {
         scanner.close(); 
     }
 }
+
