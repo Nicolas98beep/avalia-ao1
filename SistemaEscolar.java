@@ -40,6 +40,6 @@ public class SistemaEscolar {
         System.out.printf("Média Final: %.1f%n", mediaFinal);
 
         scanner.close(); 
-    }
-}
+    
+        {      
 
