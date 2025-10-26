@@ -1,4 +1,7 @@
-classe public class Sistema Escolar {
+import java.util.Scanner;
+
+public class SistemaEscolar {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -39,6 +42,5 @@ classe public class Sistema Escolar {
         System.out.printf("Média Final: %.1f%n", mediaFinal);
 
         scanner.close(); 
-    
-        {      
-
+    }
+}
